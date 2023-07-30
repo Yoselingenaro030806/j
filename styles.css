@@ -1,0 +1,28 @@
+img{
+    width: 200px;
+}
+body{
+    text-align: justify;
+}
+
+.title-RH{
+    text-align: center;
+    background-color:lightgreen;
+    font-size: 600%;
+}
+
+.img-logo{
+    width: 35%;
+}
+
+.title-tendencias{
+    font-size: 200%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    background-color: greenyellow;
+}
+
+.accordion-button{
+    border-color: chartreuse;
+}
+
